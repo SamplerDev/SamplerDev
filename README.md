@@ -26,7 +26,7 @@
     </div>
   </div>
 </div>
-  <style>
+  <style type="text/css">
 *
 {
   margin: 0;
